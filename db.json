@@ -1,5 +1,7 @@
 {
-  "hotdeskBookings": [
+  "db":
+  {
+    "hotdeskBookings": [
     {
       "bookingId": 1,
       "bookedFor": "Shamir Shahul",
@@ -8,4 +10,5 @@
       "endTime": "2021-03-18T14:54:18.425069+04:00"
     }
   ]
+  }
 }
