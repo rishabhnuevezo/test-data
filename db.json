@@ -1,0 +1,11 @@
+{
+  "hotdeskBookings": [
+    {
+      "bookingId": 1,
+      "bookedFor": "Shamir Shahul",
+      "bookedBy": "Rishabh Awatani",
+      "startTime": "2021-03-18T13:54:18.425069+04:00"
+      "endTime": "2021-03-18T14:54:18.425069+04:00"
+    }
+  ]
+}
